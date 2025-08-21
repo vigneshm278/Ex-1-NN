@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : VIGNESH M</H3>
 <H3>ENTER YOUR REGISTER NO : 212223240176</H3>
 <H3>EX. NO.1</H3>
-<H3>DATE : 18/08/2025</H3>
+<H3>DATE : 21/08/2025</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -81,25 +81,32 @@ print("Lenght of X_test ",len(X_test))
 
 ## OUTPUT:
 ### Dataset:
-![images](https://github.com/user-attachments/assets/7d7aaae0-826d-4cae-bbd8-a2287d7de089)
+<img width="1478" height="370" alt="image" src="https://github.com/user-attachments/assets/86056e11-d4bd-4c45-bf4b-6d96d9b01323" />
 
 ### X Values:
-![images](https://github.com/user-attachments/assets/18342c94-abef-4229-b26d-0acdb5c58626)
+<img width="916" height="268" alt="image" src="https://github.com/user-attachments/assets/a7f94898-8332-45a9-a68f-eddc77bb5310" />
+
 ### Y Values:
-![images](https://github.com/user-attachments/assets/52944df9-1956-4e6a-bfab-ad0f187142ed)
+<img width="513" height="125" alt="image" src="https://github.com/user-attachments/assets/19cc51f1-c355-47d6-944f-b26e29c4bdf8" />
+
 ### Null Values:
-![images](https://github.com/user-attachments/assets/42d3958f-90c9-4e02-9cac-40289956eaa0)
+<img width="426" height="706" alt="image" src="https://github.com/user-attachments/assets/4b168397-8adc-4a4d-8079-fd899d8ebb75" />
+
 ### Duplicated Values:
-![images](https://github.com/user-attachments/assets/aa48c2ba-8d64-4d60-b941-21c8d9bd3c21)
+<img width="449" height="633" alt="image" src="https://github.com/user-attachments/assets/6af08908-bf2b-4e33-b360-98b38d69b2e8" />
+
 ### Description:
-![images](https://github.com/user-attachments/assets/2e70d654-8a26-419f-8cb0-46b4d84a033c)
+<img width="1483" height="485" alt="image" src="https://github.com/user-attachments/assets/59e266a4-4dae-472a-aaca-baaa8844f637" />
+
 ### Normalized Dataset:
-![](https://github.com/user-attachments/assets/1b0ea631-5c44-476d-bee6-2a8ddcdabb98)
+<img width="1388" height="359" alt="image" src="https://github.com/user-attachments/assets/f7f93b33-da7f-44c6-b027-002d502b7fd2" />
+
 ### Training Data:
-![](https://github.com/user-attachments/assets/3c91a26c-f398-4253-a2ed-e6acac6ef78a)
+<img width="915" height="696" alt="image" src="https://github.com/user-attachments/assets/4b0c88d4-9979-4064-967b-7a57a092eb00" />
+
 ### Testing Data:
-![](https://github.com/user-attachments/assets/679b8a7b-057e-4bdb-ac4c-3da60c7aa258)
-![image](https://github.com/user-attachments/assets/9e77edeb-3c45-4eb7-a5ca-88bea4b9418e)
+<img width="823" height="296" alt="image" src="https://github.com/user-attachments/assets/2b97658f-85b5-4b93-96cd-5e7854a4bab2" />
+
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
